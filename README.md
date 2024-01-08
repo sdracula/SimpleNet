@@ -22,17 +22,17 @@ SimpleNet is a simple defect detection and localization network that built with 
 **Python3.8**
 
 **Packages**:
-- torch==1.12.1
-- torchvision==0.13.1
-- numpy==1.22.4
-- opencv-python==4.5.1
+- torch==2.0.1
+- torchvision==0.15.2
+- numpy==1.24.4
+- opencv-python==4.8.0
 
 (Above environment setups are not the minimum requiremetns, other versions might work too.)
 
 
 ### Data
 
-Edit `run.sh` to edit dataset class and dataset path.
+Edit `sub.py`(better for Windows) or `run.sh` to edit dataset class and dataset path.
 
 #### MvTecAD
 
