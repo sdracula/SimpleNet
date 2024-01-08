@@ -43,6 +43,9 @@ The dataset folders/files follow its original structure.
 ### Run
 
 #### Demo train
+```Please specicy dataset path and log folder  in `sub.py` before running.
+python sub.py
+```
 
 Please specicy dataset path (line1) and log folder (line10) in `run.sh` before running.
 
